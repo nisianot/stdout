@@ -17,7 +17,7 @@ Prints each character of the input string with an animation, creating a typing e
   from loading_module import print_string_anim
 
   print_string_anim("Hello, World!", 0.1)
-```
+  ```
 
 ### `simulate_loading(seconds)`
 
@@ -28,8 +28,8 @@ Simulates a loading animation in the console.
 
 - **Example:**
 
-```python
-from loading_module import simulate_loading
-
-simulate_loading(3)
-```
+  ```python
+  from loading_module import simulate_loading
+  
+  simulate_loading(3)
+  ```
